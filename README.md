@@ -15,4 +15,4 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvo diariamente com o intuito de ampliar meus conhecimentos e aprimorar minhas habilidades em programação, explorando novas tecnologias e frameworks como Flutter, Node.js e Java.
+💻 Desenvolvo diariamente com o intuito de ampliar meus conhecimentos e aprimorar minhas habilidades em programação, explorando novas tecnologias como Flutter, Node.js e Java.
